@@ -122,6 +122,21 @@ Each agent has its own configuration file with detailed system messages and prom
 
 ## Getting Started
 
+### 🚀 Quick Start with N8N Creator
+
+**Ready to try it immediately?** Use the pre-built workflow on the N8N Creator platform:
+
+**[Full Blog Content Automation with GPT-4, Claude & Ghost CMS Publisher](https://n8n.io/workflows/7920-full-blog-content-automation-with-gpt-4-claude-and-ghost-cms-publisher/)**
+
+This ready-to-use template includes all the necessary nodes and configurations. Simply:
+1. Click "Use for free" on the N8N Creator page
+2. Configure your API credentials
+3. Start creating automated blog content immediately!
+
+### 📋 Manual Setup
+
+For custom implementation or local N8N setup:
+
 1. **Install N8N** on your system
 2. **Import the workflow** from the JSON file
 3. **Configure API credentials** for OpenAI, Anthropic, Brave Search, and Ghost CMS
