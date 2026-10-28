@@ -2,6 +2,8 @@
 
 A comprehensive AI-powered blogging automation system built with N8N that creates, optimizes, and publishes high-quality blog content automatically.
 
+> 💡 **Prefer code over a visual workflow?** Check out [Blogging with LangChain](https://github.com/christancho/blogging-with-langchain), the same idea built with LangGraph, Claude, and Ghost CMS. It generates researched, SEO-optimized 3,500+ word articles with one command.
+
 ## Project Objective
 
 This project demonstrates a complete automated blogging workflow that transforms a simple topic request into a fully published, SEO-optimized blog post. The system uses multiple specialized AI agents working in sequence to handle every aspect of content creation, from initial research to final publication on your Ghost CMS website.
